@@ -46,6 +46,8 @@
 - [Q3_1_1.py](./CHAPTER3/Q3_1_1.py)
 - [Q3_1_2.py](./CHAPTER3/Q3_1_2.py)
 - 3.2 if文の応用  
+- [Q3_2_1.py](./CHAPTER3/Q3_2_1.py)
+- [Q3_2_2.py](./CHAPTER3/Q3_2_2.py)
 - 3.3 for文の基礎  
 - 3.4 for文の応用  
 - 3.5 while文の基礎  
