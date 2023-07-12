@@ -4,3 +4,5 @@ if a > 10:
 else:
     a += 1
 print(a)
+
+# 答:11
