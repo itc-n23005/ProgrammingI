@@ -52,6 +52,8 @@
 - [Q3_3_1.py](./CHAPTER3/Q3_3_1.py)
 - [Q3_3_2.py](./CHAPTER3/Q3_3_2.py)
 - 3.4 for文の応用  
+- [Q3_4_1.py](./CHAPTER3/Q3_4_1.py)
+- [Q3_4_2.py](./CHAPTER3/Q3_4_2.py)
 - 3.5 while文の基礎  
 - 3.6 whileを使ったプログラミング  
 - 3.7 ファイルの操作  
