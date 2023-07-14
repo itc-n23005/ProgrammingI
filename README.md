@@ -40,7 +40,7 @@
 - 2.13 importのいろいろな書き方  
 - [Q2_13_1.py](./CHAPTER2/Q2_13_1.py)
 - [Q2_13_2.py](./CHAPTER2/Q2_13_2.py)
-
+- [Q2_final.py](./CHAPTER2/Q2_final.py)
 ### 第3章　制御構文  
 - 3.1 if文の基礎  
 - [Q3_1_1.py](./CHAPTER3/Q3_1_1.py)
