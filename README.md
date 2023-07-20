@@ -40,7 +40,7 @@
 - 2.13 importのいろいろな書き方  
 - [Q2_13_1.py](./CHAPTER2/Q2_13_1.py)
 - [Q2_13_2.py](./CHAPTER2/Q2_13_2.py)
-
+- [Q2_final.py](./CHAPTER2/Q2_final.py)
 ### 第3章　制御構文  
 - 3.1 if文の基礎  
 - [Q3_1_1.py](./CHAPTER3/Q3_1_1.py)
@@ -58,6 +58,8 @@
 - [Q3_5_1.py](./CHAPTER3/Q3_5_1.py)
 - [Q3_5_2.py](./CHAPTER3/Q3_5_2.py)
 - 3.6 whileを使ったプログラミング  
+- [Q3_6_1.py](./CHAPTER3/Q3_6_1.py)
+- [Q3_6_2.py](./CHAPTER3/Q3_6_2.py)
 - 3.7 ファイルの操作  
 - 3.8 バイナリファイルの扱い  
 - 3.8 バイナリファイルの扱い  
